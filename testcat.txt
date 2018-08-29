@@ -1,0 +1,20 @@
+
+Hellow this is a test for the cat for a file and I am typing within the file within the CLI of Git
+
+I need to now exit this file: 
+
+So when you first open up bi bash you want to do the following: 
+
+git init
+
+git remote add origin <URL>
+
+git pull origin master
+
+git touch <file name>
+
+git cat >> file name 
+
+
+
+exit is cntrl d
